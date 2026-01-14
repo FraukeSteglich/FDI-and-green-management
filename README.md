@@ -1,6 +1,6 @@
 Read me: Replication files 
 
-This repository contains the do files needed to compute the results of the paper “Green gifts from abroad? FDI and firms' green management” by Peter Kannen, Finn Ole Semrau, and Frauke Steglich accepted for publication at the Journal of International Business Policy (2025).
+This repository contains the do files needed to compute the results of the paper “Green gifts from abroad? FDI and firms' green management” by Peter Kannen, Finn Ole Semrau, and Frauke Steglich accepted for publication at the Journal of International Business Policy (2026), https://doi.org/10.1057/s42214-025-00228-4.
 
 Data sources and access
 
